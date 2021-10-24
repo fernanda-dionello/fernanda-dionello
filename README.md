@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Fernanda, but can call me "Fe" or "Nanda".
-- 👀 I’m interested in software development, I love work with FrontEnd and iOS but I also want to learn more about backend 
-- 🌱 I’m currently learning Node.js, JS, Python, Swift,...
+- 👀 I’m interested in software development, I love work with FrontEnd and Backend
+- 🌱 I’m currently learning React, Micro Frontend, Node.js, JS, Python...
 - 📫 Let's talk! fernanda.dionello@gmail.com
